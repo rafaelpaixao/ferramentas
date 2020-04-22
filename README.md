@@ -7,6 +7,10 @@ Gerador de fluxograma que aceita pseudo-código.
 
 ![Image of Yaktocat](img/code2flow.gif)
 
-## [MediaHuman] (https://www.mediahuman.com)
+## [MediaHuman](https://www.mediahuman.com)
 
 Assistir, baixar e converter vídeos do Youtube.
+
+## [GhostWriter](https://wereturtle.github.io/ghostwriter)
+
+Editor de textos para Markdown.
