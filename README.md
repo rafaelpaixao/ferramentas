@@ -7,6 +7,9 @@ Gerador de fluxograma que aceita pseudo-código.
 
 ![Image of Yaktocat](img/code2flow.gif)
 
+## [DaVinci Resolve](https://www.blackmagicdesign.com/br/products/davinciresolve/)
+Edição e pós-produção de vídeo e áudio.
+
 ## [MediaHuman](https://www.mediahuman.com)
 
 Assistir, baixar e converter vídeos do Youtube.
